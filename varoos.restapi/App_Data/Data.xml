@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPerson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Person>
+    <Id>0</Id>
+    <Name>Duque</Name>
+    <Position>Jefe</Position>
+  </Person>
+  <Person>
+    <Id>3</Id>
+    <Name>Tony</Name>
+    <Position>Revisor</Position>
+  </Person>
+</ArrayOfPerson>
